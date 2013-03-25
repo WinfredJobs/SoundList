@@ -1,0 +1,405 @@
+TSoundList
+v5
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/ResourceRules.plist
+cProcessInfoPlistFile /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Info.plist SoundList/SoundList-Info.plist
+cProcessPCH /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/PrecompiledHeaders/SoundList-Prefix-bsorvbpxazsgbqhcnmcltfvffloo/SoundList-Prefix.pch.pth SoundList/SoundList-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/SLAppDelegate.o /Users/tigra/Desktop/SoundList/SoundList/SLAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/main.o /Users/tigra/Desktop/SoundList/SoundList/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/SLViewController.o /Users/tigra/Desktop/SoundList/SoundList/SLViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/SoundList normal armv7
+cGenerateDSYMFile /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app.dSYM /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/SoundList
+cCopyStringsFile /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/en.lproj/InfoPlist.strings SoundList/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Default.png SoundList/Default.png
+cCopyPNGFile /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Default@2x.png SoundList/Default@2x.png
+cCopyPNGFile /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Default-568h@2x.png SoundList/Default-568h@2x.png
+cCompileXIB /Users/tigra/Desktop/SoundList/SoundList/en.lproj/SLViewController.xib
+cProcessProductPackaging "/Users/tigra/Library/MobileDevice/Provisioning Profiles/C41966A0-00C3-4CE5-AD28-BD9A8396F6D2.mobileprovision" /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/tigra/Library/MobileDevice/Provisioning Profiles/C41966A0-00C3-4CE5-AD28-BD9A8396F6D2.mobileprovision" /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/embedded.mobileprovision
+cTouch /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList.xcent
+cCodeSign /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+c00000000514303C00000000000000110
+t1363346368
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+c00000000510A6D4A00000000000001A7
+t1359637834
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+c00000000510A6D4A00000000000001E5
+t1359637834
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000510A6D4B000000000036CDF0
+t1359637835
+s3591664
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000510A6D4C0000000000322700
+t1359637836
+s3286784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000510A6D4D000000000062AD10
+t1359637837
+s6466832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000510A6D4C00000000000015F7
+t1359637836
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000510A6D4D0000000000000E8D
+t1359637837
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000510A6D4F00000000011BCDF0
+t1359637839
+s18599408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/Availability.h
+c00000000510A6D510000000000001B73
+t1359637841
+s7027
+
+N/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/PrecompiledHeaders/SoundList-Prefix-bsorvbpxazsgbqhcnmcltfvffloo/SoundList-Prefix.pch.pth
+t1364201282
+s4596932
+
+N/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/SLAppDelegate.o
+t1364201977
+s91496
+
+N/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/SLViewController.o
+t1364202421
+s95224
+
+N/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/SoundList.LinkFileList
+c0000000051500F4200000000000001D1
+t1364201282
+s465
+
+N/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/main.o
+t1364201282
+s3264
+
+N/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList.xcent
+t1364201283
+s426
+
+N/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app
+t1364202421
+s408
+
+N/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app.dSYM
+t1364202421
+s102
+
+N/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Default-568h@2x.png
+t1364201283
+s7014
+
+N/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Default.png
+t1364201283
+s3688
+
+N/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Default@2x.png
+t1364201283
+s6316
+
+N/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Info.plist
+t1364201282
+s1078
+
+N/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/PkgInfo
+t1364201282
+s8
+
+N/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/ResourceRules.plist
+t1364201282
+s485
+
+N/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/SoundList
+t1364202421
+s38832
+
+N/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/embedded.mobileprovision
+t1364201283
+s7417
+
+N/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/en.lproj/InfoPlist.strings
+t1364201283
+s42
+
+N/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/en.lproj/SLViewController.nib
+t1364202401
+s1476
+
+N/Users/tigra/Desktop/SoundList/SoundList/Default-568h@2x.png
+c0000000050748B2300000000000048A2
+t1349815075
+s18594
+
+N/Users/tigra/Desktop/SoundList/SoundList/Default.png
+c0000000050748B23000000000000198C
+t1349815075
+s6540
+
+N/Users/tigra/Desktop/SoundList/SoundList/Default@2x.png
+c0000000050748B230000000000003EEB
+t1349815075
+s16107
+
+N/Users/tigra/Desktop/SoundList/SoundList/SLAppDelegate.h
+c0000000051500D470000000000000184
+t1364200775
+s388
+
+N/Users/tigra/Desktop/SoundList/SoundList/SLAppDelegate.m
+c0000000051500D470000000000000997
+t1364200775
+s2455
+
+N/Users/tigra/Desktop/SoundList/SoundList/SLViewController.h
+c00000000515011F900000000000001FD
+t1364201977
+s509
+
+N/Users/tigra/Desktop/SoundList/SoundList/SLViewController.m
+c00000000515013CF0000000000000DA6
+t1364202447
+s3494
+
+N/Users/tigra/Desktop/SoundList/SoundList/SoundList-Prefix.pch
+c0000000051500D470000000000000141
+t1364200775
+s321
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/tigra/Desktop/SoundList/SoundList/en.lproj/InfoPlist.strings
+c0000000051500D47000000000000002D
+t1364200775
+s45
+
+N/Users/tigra/Desktop/SoundList/SoundList/en.lproj/SLViewController.xib
+c00000000515013A0000000000000274A
+t1364202400
+s10058
+
+N/Users/tigra/Desktop/SoundList/SoundList/main.m
+c0000000051500D470000000000000164
+t1364200775
+s356
+
+N/Users/tigra/Library/MobileDevice/Provisioning Profiles/C41966A0-00C3-4CE5-AD28-BD9A8396F6D2.mobileprovision
+c00000000511A394D0000000000001CF9
+t1360673101
+s7417
+
+NSoundList/SoundList-Info.plist
+c0000000051500DBF00000000000004BF
+t1364200895
+s1215
+
+CBuild AST from /Users/tigra/Desktop/SoundList/SoundList/SLAppDelegate.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/SoundList/SoundList/SLViewController.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/SoundList/SoundList/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesfd68dc504b00b741^8a3edf504b00b741^---0#1#0#--18"Check dependencies36"3008C742-A7FA-469D-9471-31FA592BDEF1-
+
+CCodeSign /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app
+s385895249.089380
+e385895249.224881
+r1
+xCodeSign
+x/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"CodeSign DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app06f416514b00b741^e69339514b00b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/0000000000000000^897"CodeSign DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app    cd /Users/tigra/Desktop/SoundList    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign ff0d890f7228476096339d8d6d1c6d4c8c17acfb --resource-rules=/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/ResourceRules.plist --entitlements /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList.xcent /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app36"67DDFB04-1630-4D04-9946-3B78284570E8-
+
+CCompileC DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/SLAppDelegate.o /Users/tigra/Desktop/SoundList/SoundList/SLAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385894777.794007
+e385894777.936961
+r1
+xCompileC
+xDerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/SLAppDelegate.o
+x/Users/tigra/Desktop/SoundList/SoundList/SLAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/tigra/Desktop/SoundList/SoundList/SLAppDelegate.m915fcb794900b741^7c5ff0794900b741^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/tigra/Desktop/SoundList/SoundList/SLAppDelegate.m0000000000000000^3633"CompileC DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/SLAppDelegate.o SoundList/SLAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/SoundList    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList-generated-files.hmap -I/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList-own-target-headers.hmap -I/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList-all-target-headers.hmap -iquote /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList-project-headers.hmap -I/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/DerivedSources/armv7 -I/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/DerivedSources -F/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos -include /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/PrecompiledHeaders/SoundList-Prefix-bsorvbpxazsgbqhcnmcltfvffloo/SoundList-Prefix.pch -MMD -MT dependencies -MF /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/SLAppDelegate.d --serialize-diagnostics /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/SLAppDelegate.dia -c /Users/tigra/Desktop/SoundList/SoundList/SLAppDelegate.m -o /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/SLAppDelegate.o36"51478B5B-55C5-4D9B-BDB7-78C945CDD04C-
+
+CCompileC DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/SLViewController.o /Users/tigra/Desktop/SoundList/SoundList/SLViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385895248.879997
+e385895248.986174
+r1
+xCompileC
+xDerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/SLViewController.o
+x/Users/tigra/Desktop/SoundList/SoundList/SLViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/tigra/Desktop/SoundList/SoundList/SLViewController.m:84:20: warning: sending 'UITableViewCell *' to parameter of incompatible type 'id<AVAudioPlayerDelegate>'
+o    [a setDelegate:[tableView cellForRowAtIndexPath:indexPath]];
+o                   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAudioPlayer.h:50:45: note: passing argument to parameter 'delegate' here
+o@property(assign) id<AVAudioPlayerDelegate> delegate; 
+o                                            ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/tigra/Desktop/SoundList/SoundList/SLViewController.mbc5be1504b00b741^75e8fc504b00b741^-650"/Users/tigra/Desktop/SoundList/SoundList/SLViewController.m:84:20: warning: sending 'UITableViewCell *' to parameter of incompatible type 'id<AVAudioPlayerDelegate>'    [a setDelegate:[tableView cellForRowAtIndexPath:indexPath]];                   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAudioPlayer.h:50:45: note: passing argument to parameter 'delegate' here@property(assign) id<AVAudioPlayerDelegate> delegate;                                             ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@89"Sending 'UITableViewCell *' to parameter of incompatible type 'id<AVAudioPlayerDelegate>'-385895248#18446744073709551615#0#1(2@45"Passing argument to parameter 'delegate' here-385895248#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@190"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAudioPlayer.h0000000000000000^49#44#49#44#1808#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@75"file://localhost/Users/tigra/Desktop/SoundList/SoundList/SLViewController.m0000000000000000^83#19#83#19#2912#0#14"Semantic Issue1(3@75"file://localhost/Users/tigra/Desktop/SoundList/SoundList/SLViewController.m0000000000000000^83#19#83#62#2912#42#-0#0#0#-19%DVTDocumentLocation4@75"file://localhost/Users/tigra/Desktop/SoundList/SoundList/SLViewController.m0000000000000000^3651"CompileC DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/SLViewController.o SoundList/SLViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/SoundList    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList-generated-files.hmap -I/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList-own-target-headers.hmap -I/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList-all-target-headers.hmap -iquote /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList-project-headers.hmap -I/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/DerivedSources/armv7 -I/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/DerivedSources -F/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos -include /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/PrecompiledHeaders/SoundList-Prefix-bsorvbpxazsgbqhcnmcltfvffloo/SoundList-Prefix.pch -MMD -MT dependencies -MF /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/SLViewController.d --serialize-diagnostics /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/SLViewController.dia -c /Users/tigra/Desktop/SoundList/SoundList/SLViewController.m -o /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/SLViewController.o36"83AD7250-418A-4B80-9C52-BA1A4A534450-
+
+CCompileC DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/main.o /Users/tigra/Desktop/SoundList/SoundList/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385894082.398141
+e385894082.599387
+r1
+xCompileC
+xDerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/main.o
+x/Users/tigra/Desktop/SoundList/SoundList/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/tigra/Desktop/SoundList/SoundList/main.m670d66c24600b741^787a99c24600b741^---0#0#0#-19%DVTDocumentLocation2@63"file://localhost/Users/tigra/Desktop/SoundList/SoundList/main.m0000000000000000^3579"CompileC DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/main.o SoundList/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/SoundList    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList-generated-files.hmap -I/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList-own-target-headers.hmap -I/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList-all-target-headers.hmap -iquote /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList-project-headers.hmap -I/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/DerivedSources/armv7 -I/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/DerivedSources -F/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos -include /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/PrecompiledHeaders/SoundList-Prefix-bsorvbpxazsgbqhcnmcltfvffloo/SoundList-Prefix.pch -MMD -MT dependencies -MF /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/main.dia -c /Users/tigra/Desktop/SoundList/SoundList/main.m -o /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/main.o36"E0E74AE0-43B2-426C-9865-D253D691050A-
+
+CCompileXIB /Users/tigra/Desktop/SoundList/SoundList/en.lproj/SLViewController.xib
+s385895200.965993
+e385895201.476473
+r1
+xCompileXIB
+x/Users/tigra/Desktop/SoundList/SoundList/en.lproj/SLViewController.xib
+o2013-03-25 15:06:41.443 Interface Builder Cocoa Touch Tool[2181:f07] CFPreferences: user home directory at file://localhost/Users/tigra/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compiling /Users/tigra/Desktop/SoundList/SoundList/en.lproj/SLViewController.xib2559f7204b00b741^22fa79214b00b741^-237"2013-03-25 15:06:41.443 Interface Builder Cocoa Touch Tool[2181:f07] CFPreferences: user home directory at file://localhost/Users/tigra/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/tigra/Desktop/SoundList/SoundList/en.lproj/SLViewController.xib0000000000000000^860"CompileXIB SoundList/en.lproj/SLViewController.xib    cd /Users/tigra/Desktop/SoundList    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/en.lproj/SLViewController.nib /Users/tigra/Desktop/SoundList/SoundList/en.lproj/SLViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"BE5A0A32-4520-48D1-86EE-4CBCA9AC91DE-
+
+CCopyPNGFile /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Default-568h@2x.png SoundList/Default-568h@2x.png
+s385894083.025608
+e385894083.230047
+r1
+xCopyPNGFile
+x/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Default-568h@2x.png
+xSoundList/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"CopyPNGFile DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Default-568h@2x.png SoundList/Default-568h@2x.png0b9a06c34600b741^3be43ac34600b741^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/tigra/Desktop/SoundList/SoundList/Default-568h@2x.png0000000000000000^654"CopyPNGFile "DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Default-568h@2x.png" "SoundList/Default-568h@2x.png"    cd /Users/tigra/Desktop/SoundList    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/tigra/Desktop/SoundList/SoundList/Default-568h@2x.png" "/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Default-568h@2x.png"36"6B2C3AC1-2DF6-475C-AB8B-09ACDE9883D9-
+
+CCopyPNGFile /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Default.png SoundList/Default.png
+s385894083.025264
+e385894083.179504
+r1
+xCopyPNGFile
+x/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Default.png
+xSoundList/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"CopyPNGFile DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Default.png SoundList/Default.png768906c34600b741^e3fc2dc34600b741^---0#0#0#-19%DVTDocumentLocation2@68"file://localhost/Users/tigra/Desktop/SoundList/SoundList/Default.png0000000000000000^614"CopyPNGFile DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Default.png SoundList/Default.png    cd /Users/tigra/Desktop/SoundList    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/tigra/Desktop/SoundList/SoundList/Default.png /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Default.png36"F1107D62-45B6-4D54-9E7E-BE461186BF1F-
+
+CCopyPNGFile /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Default@2x.png SoundList/Default@2x.png
+s385894083.025268
+e385894083.215922
+r1
+xCopyPNGFile
+x/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Default@2x.png
+xSoundList/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"CopyPNGFile DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Default@2x.png SoundList/Default@2x.png988906c34600b741^db5237c34600b741^---0#0#0#-19%DVTDocumentLocation2@71"file://localhost/Users/tigra/Desktop/SoundList/SoundList/Default@2x.png0000000000000000^634"CopyPNGFile "DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Default@2x.png" "SoundList/Default@2x.png"    cd /Users/tigra/Desktop/SoundList    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/tigra/Desktop/SoundList/SoundList/Default@2x.png" "/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Default@2x.png"36"7ADC3FE6-A2E9-465E-BEFD-219FE367A1E9-
+
+CCopyStringsFile /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/en.lproj/InfoPlist.strings SoundList/en.lproj/InfoPlist.strings
+s385894083.025257
+e385894083.027323
+r1
+xCopyStringsFile
+x/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/en.lproj/InfoPlist.strings
+xSoundList/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy SoundList/en.lproj/InfoPlist.stringsba8506c34600b741^82fe06c34600b741^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/tigra/Desktop/SoundList/SoundList/en.lproj/InfoPlist.strings0000000000000000^608"CopyStringsFile DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/en.lproj/InfoPlist.strings SoundList/en.lproj/InfoPlist.strings    cd /Users/tigra/Desktop/SoundList    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/en.lproj -- SoundList/en.lproj/InfoPlist.strings36"8419796D-D494-49F2-ABEE-946C18D4612D-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/ResourceRules.plist
+s385894082.076336
+e385894082.080445
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+xDerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/ResourceRules.plisted9b13c24600b741^fa9714c24600b741^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/ResourceRules.plist000000000080d041^776"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/ResourceRules.plist    cd /Users/tigra/Desktop/SoundList    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app36"93D6763F-8F1B-4945-BA67-CDEA5446D33E-
+
+CGenerateDSYMFile /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app.dSYM /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/SoundList
+s385895249.020531
+e385895249.035778
+r1
+xGenerateDSYMFile
+x/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app.dSYM
+x/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/SoundList
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Generate /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app.dSYMe84d05514b00b741^282809514b00b741^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app.dSYM/0000000000000000^702"GenerateDSYMFile DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app.dSYM DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/SoundList    cd /Users/tigra/Desktop/SoundList    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/SoundList -o /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app.dSYM36"B618DBAB-202E-4C0D-80DB-F6224E20B6A3-
+
+CLd /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/SoundList normal armv7
+s385895248.992844
+e385895249.013858
+r1
+xLd
+x/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/SoundList
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Link /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/SoundListb938fe504b00b741^b98c03514b00b741^---0#0#0#--1181"Ld DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/SoundList normal armv7    cd /Users/tigra/Desktop/SoundList    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos -F/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos -filelist /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/Objects-normal/armv7/SoundList.LinkFileList -dead_strip -fobjc-link-runtime -miphoneos-version-min=6.1 -framework AVFoundation -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/SoundList36"215F9EC8-2FFA-4285-817D-15006232D657-
+
+CProcessInfoPlistFile /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Info.plist SoundList/SoundList-Info.plist
+s385894082.076352
+e385894082.081127
+r1
+xProcessInfoPlistFile
+x/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Info.plist
+xSoundList/SoundList-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process SoundList/SoundList-Info.pliste8a013c24600b741^decc14c24600b741^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/tigra/Desktop/SoundList/SoundList/SoundList-Info.plist0000000000000000^834"ProcessInfoPlistFile DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Info.plist SoundList/SoundList-Info.plist    cd /Users/tigra/Desktop/SoundList    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SoundList/SoundList-Info.plist -genpkginfo /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/ResourceRules.plist -o /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/Info.plist36"1BB5E647-3A3C-4DB5-BE6D-B7D48F399EE7-
+
+CProcessPCH /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/PrecompiledHeaders/SoundList-Prefix-bsorvbpxazsgbqhcnmcltfvffloo/SoundList-Prefix.pch.pth SoundList/SoundList-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385894082.089135
+e385894082.391593
+r1
+xProcessPCH
+x/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/PrecompiledHeaders/SoundList-Prefix-bsorvbpxazsgbqhcnmcltfvffloo/SoundList-Prefix.pch.pth
+xSoundList/SoundList-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile SoundList/SoundList-Prefix.pch7de816c24600b741^d93e64c24600b741^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/tigra/Desktop/SoundList/SoundList/SoundList-Prefix.pch0000000000000000^3504"ProcessPCH DerivedData/SoundList/Build/Intermediates/PrecompiledHeaders/SoundList-Prefix-bsorvbpxazsgbqhcnmcltfvffloo/SoundList-Prefix.pch.pth SoundList/SoundList-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/SoundList    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList-generated-files.hmap -I/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList-own-target-headers.hmap -I/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList-all-target-headers.hmap -iquote /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList-project-headers.hmap -I/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/DerivedSources/armv7 -I/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/DerivedSources -F/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/PrecompiledHeaders/SoundList-Prefix-bsorvbpxazsgbqhcnmcltfvffloo/SoundList-Prefix.pch.dia -c /Users/tigra/Desktop/SoundList/SoundList/SoundList-Prefix.pch -o /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/PrecompiledHeaders/SoundList-Prefix-bsorvbpxazsgbqhcnmcltfvffloo/SoundList-Prefix.pch.pth -MMD -MT dependencies -MF /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/PrecompiledHeaders/SoundList-Prefix-bsorvbpxazsgbqhcnmcltfvffloo/SoundList-Prefix.pch.d36"2333162A-8651-41FC-9C70-6222F0B145C0-
+
+CProcessPCH /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Index/PrecompiledHeaders/SoundList-Prefix-bqlnyqxcivmsnygvtgevrkpflmlq_ast/SoundList-Prefix.pch.pth SoundList/SoundList-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging "/Users/tigra/Library/MobileDevice/Provisioning Profiles/C41966A0-00C3-4CE5-AD28-BD9A8396F6D2.mobileprovision" /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/embedded.mobileprovision
+s385894083.612719
+e385894083.614989
+r1
+xProcessProductPackaging
+x/Users/tigra/Library/MobileDevice/Provisioning Profiles/C41966A0-00C3-4CE5-AD28-BD9A8396F6D2.mobileprovision
+x/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection225"ProcessProductPackaging "/Users/tigra/Library/MobileDevice/Provisioning Profiles/C41966A0-00C3-4CE5-AD28-BD9A8396F6D2.mobileprovision" DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/embedded.mobileprovision70e99cc34600b741^976f9dc34600b741^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/embedded.mobileprovision0000000000000000^724"ProcessProductPackaging "/Users/tigra/Library/MobileDevice/Provisioning Profiles/C41966A0-00C3-4CE5-AD28-BD9A8396F6D2.mobileprovision" DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/embedded.mobileprovision    cd /Users/tigra/Desktop/SoundList    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/tigra/Library/MobileDevice/Provisioning Profiles/C41966A0-00C3-4CE5-AD28-BD9A8396F6D2.mobileprovision" -o /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app/embedded.mobileprovision36"EA351B84-6EEF-452D-A50E-4B8F150DB678-
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList.xcent
+s385894083.662956
+e385894083.665232
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+x/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection249"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList.xcenta4c5a9c34600b741^304caac34600b741^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList.xcent000000000080d041^798"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList.xcent    cd /Users/tigra/Desktop/SoundList    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Intermediates/SoundList.build/Debug-iphoneos/SoundList.build/SoundList.xcent36"04740638-512A-4026-9787-553670E5A906-
+
+CTouch /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app
+s385895249.069183
+e385895249.074138
+r1
+xTouch
+x/Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Touch /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.appa9c011514b00b741^b5fa12514b00b741^---0#0#0#--417"Touch DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app    cd /Users/tigra/Desktop/SoundList    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/tigra/Desktop/SoundList/DerivedData/SoundList/Build/Products/Debug-iphoneos/SoundList.app36"D67B319F-431D-4F33-8839-99DFEBF182CD-
+
