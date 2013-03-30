@@ -48,17 +48,21 @@ static NSArray*addFiles = nil;
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
-    static NSString *CellIdentifier = @"Cell";
     
+    
+    // Configure the cell...
+    NSFileManager *fm = [NSFileManager defaultManager];
+    
+     NSArray *sets = [fm contentsOfDirectoryAtPath:DOCS error:nil];
+    
+     NSString *CellIdentifier =    ([sets count] == 0) ? @"OYLUTS" : sets[indexPath.row];
+ 
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier];
     if (cell == nil) {
         cell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:CellIdentifier] autorelease];
     }
     
-    // Configure the cell...
-    NSFileManager *fm = [NSFileManager defaultManager];
-    
-    NSArray *sets = [fm contentsOfDirectoryAtPath:DOCS error:nil];
+   
     if ([sets count] == 0){
         [cell.textLabel setText:addFiles[indexPath.row]];
         [cell.textLabel setTextAlignment:NSTextAlignmentCenter];

@@ -1,2 +1,2 @@
-dependencies: /Users/tigra/Desktop/SoundList/SoundList/main.m \
-  /Users/tigra/Desktop/SoundList/SoundList/SLAppDelegate.h
+dependencies: /Users/tigra/Desktop/Coding/SoundList/SoundList/main.m \
+  /Users/tigra/Desktop/Coding/SoundList/SoundList/SLAppDelegate.h

@@ -1,2 +1,3 @@
-dependencies: /Users/tigra/Desktop/SoundList/SoundList/SLViewController.m \
-  /Users/tigra/Desktop/SoundList/SoundList/SLViewController.h
+dependencies: \
+  /Users/tigra/Desktop/Coding/SoundList/SoundList/SLViewController.m \
+  /Users/tigra/Desktop/Coding/SoundList/SoundList/SLViewController.h

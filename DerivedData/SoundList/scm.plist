@@ -3,9 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>FoundWorkingCopyPaths</key>
-	<array/>
+	<array>
+		<string>/Users/tigra/Desktop/Coding/SoundList</string>
+	</array>
 	<key>LastWorkingCopyScanDate</key>
-	<date>2013-03-25T08:45:55Z</date>
+	<date>2013-03-25T10:05:37Z</date>
 	<key>MissingFilePaths</key>
 	<array/>
 	<key>Version</key>
